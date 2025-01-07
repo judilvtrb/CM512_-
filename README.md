@@ -4,7 +4,7 @@ Japan Hostel Hub is a platform providing comprehensive analysis of hostels acros
 ## System Architecture
 This document outlines the architecture of NihonNights, an Interactive Dashboard for Japanese Hostel Analysis and Comparison. The system is divided into three main components, each serving specific user needs in the hostel selection process.
 ## 1. Comprehensive Analysis Page
-![Comprehensive Analysis Page](./Logo/Comprehensive_Analysis_Page.png) 
+![Comprehensive Analysis Page](./READMEpic/Comprehensive_Analysis_Page.png) 
 1. **Website Title**
     > Welcome interface introducing system features and guiding users through available analysis tools.
 
@@ -28,7 +28,7 @@ This document outlines the architecture of NihonNights, an Interactive Dashboard
 
     
 ## 2. Search & Add Page
-![Search & Add Page](./Logo/Search_&_Add_Page.png) 
+![Search & Add Page](./READMEpic/Search_&_Add_Page.png) 
 1. **Search Bar**
     > Direct search interface for specific hostels or cities, enabling users to quickly find their target accommodations.
 
@@ -45,7 +45,7 @@ This document outlines the architecture of NihonNights, an Interactive Dashboard
     > Selection tool for comparative analysis, enabling users to mark 2-3 hostels for detailed comparison.
 
 ## 3. Comparison Page
-![Comparison Page](./Logo/Comparison_Page.png) 
+![Comparison Page](./READMEpic/Comparison_Page.png) 
 1. **Hostel Name**
     > Visual differentiation system using color coding to help users easily track different hostels throughout the comparison.
 
